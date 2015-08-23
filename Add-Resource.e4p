@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project Add-Resource -->
-<!-- Saved: 2015-08-23, 13:08:36 -->
+<!-- Saved: 2015-08-23, 13:16:40 -->
 <!-- Copyright (C) 2015 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -12,8 +12,16 @@
   <Version>0.1</Version>
   <Author></Author>
   <Email></Email>
+  <Eol index="-1"/>
   <Sources>
     <Source>__init__.py</Source>
+    <Source>addRecourse1.0.py</Source>
+    <Source>addresource.py</Source>
+    <Source>addresourceforHamonic.py</Source>
+    <Source>mkexe.py</Source>
+    <Source>Ui_addresource.py</Source>
+    <Source>Ui_addresourceforHamonic.py</Source>
+    <Source>wsdl_conn.py</Source>
   </Sources>
   <Forms/>
   <Translations/>
